@@ -1,0 +1,28 @@
+.one{
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/img/back.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    background: rgb(246, 245, 245);
+}
+
+.title_one{
+    font-family: monospace;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: rgb(14, 12, 12);
+    font-weight: bold;
+}
+
+.box_level{
+    background: rgb(206, 205, 205);
+}
